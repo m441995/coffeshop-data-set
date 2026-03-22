@@ -31,4 +31,3 @@ you can download the full Excel dashboard from Google Drive:
 ---
 
 👤 **Created by:** *Mohamed Adel Wahballah*  
-📅 *Suzuki Egypt – Monthly Financial Dashboard Project*
